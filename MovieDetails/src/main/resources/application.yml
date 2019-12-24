@@ -1,0 +1,6 @@
+server:
+  port: 8081
+  
+spring:  application:    name: movie-details
+
+eureka:  client:    fetch-registry: true    register-with-eureka: true
